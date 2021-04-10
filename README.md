@@ -51,7 +51,7 @@
 
 ---
 
-## Introduction to Structural Discrete Choice Modeling
+## Session 1: Introduction to Structural Discrete Choice Modeling
 
 -   April 15, 14:00 - 17:00
 
@@ -98,7 +98,7 @@
 
 
 ---
-## Static discrete choice in IO
+## Session 2: Static discrete choice in IO
 
 -   April 22, 13:30 - 16:30
 
@@ -135,7 +135,7 @@
 
 
 ---
-## Static discrete choice in IO
+## Session 3: Static discrete choice in IO
 
 -   April 29, 14:00 - 17:00
 
@@ -160,7 +160,7 @@
 
 
 ---
-## Dynamic discrete choice in IO
+## Session 4: Dynamic discrete choice in IO
 
 -   May 6, 13:30 - 16:30
 
@@ -185,7 +185,7 @@
 
 
 ---
-## Dynamic discrete choice in IO
+## Session 5: Dynamic discrete choice in IO
 
 -   May 27, 14:00 - 17:00
 
@@ -220,7 +220,7 @@
 
 
 ---
-## Dynamic discrete choice in Labour I
+## Session 6: Dynamic discrete choice in Labour I
 
 -   June 3, 14:00 - 17:00
 
@@ -244,7 +244,7 @@
 
 
 ---
-## Dynamic discrete choice in Labour II
+## Session 7: Dynamic discrete choice in Labour II
 
 -   June 10, 14:00 - 17:00
 
@@ -265,7 +265,7 @@
 
 
 ---
-## Partial job search
+## Session 8: Partial job search
 
 -   June 17, 14:00 - 17:00
 
@@ -298,7 +298,7 @@
 
 
 ---
-## Equilibrium job search
+## Session 9: Equilibrium job search
 
 -   June 24, 14:00 - 17:00
 
@@ -329,7 +329,7 @@
 
 
 ---
-## Final Exam
+## Session 10: Final Exam
 
 -   July 1, 14:00 - 17:00
 
