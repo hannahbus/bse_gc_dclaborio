@@ -6,11 +6,15 @@
 
 ## Course organization
 
+- **This repository will provide all material to *prepare for sessions*. All posted papers must be *thoroughly read* in advance. The class will be interactive.**
+
+- The class uses Matlab. If you have issues obtaining a Matlab license, Julia is a free and very powerful alternative with similar basic syntax. Feel free to use [Julia](https://julialang.org) though feedback on code may be more limited if you do. A good way to use Julia is in an IDE such as [Julia for VS Code](https://www.julia-vscode.org/docs/stable/), based on the [VS code](https://code.visualstudio.com) editor.
+
 - 	Instructors: [Peter Haan](https://www.diw.de/cv/en/phaan), [Luke Haywood](http://www.lukehaywood.eu/), [Boryana Ilieva](https://www.diw.de/cv/en/bilieva), and [Hannes Ullrich](https://www.hannesullrich.com)
 
 -   The course takes place on Thursdays (in general), 14:00 - 17:00.
 
--   This is an online class via webex
+-   This is an online class via Cisco Webex
 
 -   Credit points: 9 ECTS. 9 three hour sessions + final exam session.
 
@@ -27,7 +31,6 @@
         participants), weighted 1/3 each, and
 
     -   a final exam, weighted 1/3.
-
 
 ---
 
