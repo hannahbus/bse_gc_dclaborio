@@ -119,12 +119,12 @@
     and E. Leamer, eds., *Handbook of Econometrics*, North-Holland,
     Chapter 63, 4171-4276, Section 1.
 
--   **Berry, Steven T. (1994), "Estimating Discrete Choice Models of
-    Product Differentiation,\" *Rand Journal of Economics* 25 (2),
+-   **Berry, Steven T. (1994), "[Estimating Discrete Choice Models of
+    Product Differentiation](pre-class-readings/week2/Berry1994.pdf),\" *Rand Journal of Economics* 25 (2),
     242-262.**
 
 -   **Berry, Steven T., Jim Levinsohn, and Ariel Pakes (1995),
-    "Automobile Prices in Market Equilibrium,\" *Econometrica* 63 (4),
+    "[Automobile Prices in Market Equilibrium](pre-class-readings/week2/BerryEtAl1995.pdf),\" *Econometrica* 63 (4),
     841-890.**
 
 -   Einav, Liran and Jonathan Levin (2010), "Empirical industrial
